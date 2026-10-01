@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">دليل تشريح وعلاج الأسنان</string>
+    <string name="tab_anatomy">تشريح الأسنان</string>
+    <string name="tab_conditions">مختار الحالات والمخاطر</string>
+    <string name="tab_tools">الأدوات السريرية</string>
+    <string name="tab_clinic">محاكي العلاج</string>
+    <string name="tab_care">العناية والاختبار</string>
+</resources>
+
